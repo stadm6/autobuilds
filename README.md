@@ -1,3 +1,5 @@
+![Build-Push-And-Test Workflow](https://github.com/stadm6/autobuilds/actions/workflows/build-push-and-deploy.yml/badge.svg)
+
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
